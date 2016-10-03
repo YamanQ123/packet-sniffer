@@ -147,34 +147,5 @@ print "* Please check the %s file to see the captured packets.\n" % file_name
 #Closing the log file
 sniffer_log.close()
 
-#End of program. Feel free to modify it, test it, add new protocols to sniff and improve de code whenever you feel the need to.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#End of program
 
